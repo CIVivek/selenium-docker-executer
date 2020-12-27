@@ -26,4 +26,4 @@ services:
       - BROWSER=chrome
       - MODULE=testng.xml
     volumes:
-      - ./output/result:/Users/Vivek Mishra/eclipse-workspace/GoogleAutomation/test-output
+      - ./output:/Users/Vivek Mishra/test-output
